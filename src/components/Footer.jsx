@@ -9,16 +9,18 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="mb-4">
               <img 
-                src="/assets/logo.png" 
-                alt="hero.io" 
+                src="/logo.png" 
+                alt="Hero Apps" 
                 className="h-8 w-auto"
                 onError={(e) => {
                   e.target.style.display = 'none';
-                  e.target.nextSibling.style.display = 'block';
+                  e.target.nextSibling.style.display = 'flex';
                 }}
               />
-              <div className="text-2xl font-bold text-blue-400 hidden">
-                hero.io
+              <div className="text-2xl font-bold text-blue-400 hidden items-center">
+                <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+                  Hero Apps
+                </span>
               </div>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">

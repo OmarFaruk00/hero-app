@@ -15,16 +15,18 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img 
-              src="/assets/logo.png" 
-              alt="hero.io" 
+              src="/logo.png" 
+              alt="Hero Apps" 
               className="h-8 w-auto"
               onError={(e) => {
                 e.target.style.display = 'none';
-                e.target.nextSibling.style.display = 'block';
+                e.target.nextSibling.style.display = 'flex';
               }}
             />
-            <div className="text-2xl font-bold text-blue-600 hidden">
-              hero.io
+            <div className="text-2xl font-bold text-blue-600 hidden items-center">
+              <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                Hero Apps
+              </span>
             </div>
           </Link>
 

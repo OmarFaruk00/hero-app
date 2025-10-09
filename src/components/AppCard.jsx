@@ -70,11 +70,11 @@ const AppCard = ({ app, showInstallButton = false, onInstall, onUninstall, isIns
           <p className="text-xs text-gray-600 mb-2">{app.companyName}</p>
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1 text-xs text-gray-500">
-              <img src="/assets/icon-downloads.png" alt="downloads" className="h-3 w-3" />
+              <img src="/icon-downloads.png" alt="downloads" className="h-3 w-3" />
               <span>{formatDownloads(app.downloads)}</span>
             </div>
             <div className="flex items-center space-x-1">
-              <img src="/assets/icon-ratings.png" alt="rating" className="h-3 w-3" />
+              <img src="/icon-ratings.png" alt="rating" className="h-3 w-3" />
               {renderStars(app.ratingAvg)}
               <span className="text-xs text-gray-600 ml-1">{app.ratingAvg}</span>
             </div>

@@ -6,12 +6,12 @@ import { appsData } from '../data/apps';
 const Home = () => {
   // Get top 8 apps by downloads and force demo images for cards
   const demoImages = [
-    '/assets/demo-app (1).webp',
-    '/assets/demo-app (2).webp',
-    '/assets/demo-app (3).webp',
-    '/assets/demo-app (4).webp',
-    '/assets/demo-app (5).webp',
-    '/assets/demo-app (6).webp'
+    '/demo-app (1).webp',
+    '/demo-app (2).webp',
+    '/demo-app (3).webp',
+    '/demo-app (4).webp',
+    '/demo-app (5).webp',
+    '/demo-app (6).webp'
   ];
   const topApps = [...appsData]
     .sort((a, b) => b.downloads - a.downloads)

@@ -1,7 +1,7 @@
 export const appsData = [
   {
     id: 1,
-    image: "/assets/demo-app (1).webp",
+    image: "/demo-app (1).webp",
     title: "Forest: Focus For Productivity",
     companyName: "productive.io",
     description: "A comprehensive productivity app that helps you stay focused and organized. Features include task management, time tracking, goal setting, and habit building. Perfect for professionals and students who want to maximize their efficiency and achieve their goals.",
@@ -19,7 +19,7 @@ export const appsData = [
   },
   {
     id: 2,
-    image: "/assets/demo-app (2).webp",
+    image: "/demo-app (2).webp",
     title: "SmPlan:ToDo List With Reminder",
     companyName: "productive.io",
     description: "Smart task management with intelligent reminders. Create, organize, and track your daily tasks with ease. Features smart notifications, priority levels, and team collaboration tools.",
@@ -37,7 +37,7 @@ export const appsData = [
   },
   {
     id: 3,
-    image: "/assets/demo-app (3).webp",
+    image: "/demo-app (3).webp",
     title: "FLIP - Focus Timer For Study",
     companyName: "productive.io",
     description: "Find peace and mindfulness with guided meditation sessions. Features include breathing exercises, sleep stories, and stress relief techniques for a healthier lifestyle.",
@@ -55,7 +55,7 @@ export const appsData = [
   },
   {
     id: 4,
-    image: "/assets/demo-app (4).webp",
+    image: "/demo-app (4).webp",
     title: "Pomocat - Cute Pomodoro Timer",
     companyName: "productive.io",
     description: "Comprehensive fitness tracking with workout plans, nutrition logging, and progress analytics. Sync with wearables and get personalized recommendations.",
@@ -73,7 +73,7 @@ export const appsData = [
   },
   {
     id: 5,
-    image: "/assets/demo-app (5).webp",
+    image: "/demo-app (5).webp",
     title: "Time Planner: Schedule & Tasks",
     companyName: "productive.io",
     description: "Take control of your finances with smart budgeting tools. Track expenses, set savings goals, and get insights into your spending patterns.",
@@ -91,7 +91,7 @@ export const appsData = [
   },
   {
     id: 6,
-    image: "/assets/demo-app (6).webp",
+    image: "/demo-app (6).webp",
     title: "Morning Habits - Daily Routine",
     companyName: "productive.io",
     description: "Master new languages with interactive lessons, speech recognition, and cultural insights. Supports 25+ languages with gamified learning.",
@@ -253,7 +253,7 @@ export const appsData = [
   },
   {
     id: 15,
-    image: "/assets/demo-app (5).webp",
+    image: "/demo-app (5).webp",
     title: "Plant Care Guide",
     companyName: "GreenThumb Apps",
     description: "Keep your plants healthy with care reminders, identification tools, and expert tips. Perfect for both beginners and experienced gardeners.",
@@ -271,7 +271,7 @@ export const appsData = [
   },
   {
     id: 16,
-    image: "/assets/demo-app (1).webp",
+    image: "/demo-app (1).webp",
     title: "Calorie Counter Pro",
     companyName: "HealthTrack Labs",
     description: "Track meals, calories, and macros with barcode scan and recipe import.",
@@ -289,7 +289,7 @@ export const appsData = [
   },
   {
     id: 17,
-    image: "/assets/demo-app (2).webp",
+    image: "/demo-app (2).webp",
     title: "Daily Journal & Mood",
     companyName: "Mindful Studio",
     description: "Simple journaling with mood tracking, prompts, and cloud sync.",
@@ -307,7 +307,7 @@ export const appsData = [
   },
   {
     id: 18,
-    image: "/assets/demo-app (3).webp",
+    image: "/demo-app (3).webp",
     title: "Expense Splitter",
     companyName: "SharePay Inc",
     description: "Split bills with friends, settle balances, and export summaries.",
@@ -325,7 +325,7 @@ export const appsData = [
   },
   {
     id: 19,
-    image: "/assets/demo-app (4).webp",
+    image: "/demo-app (4).webp",
     title: "Notes Scanner",
     companyName: "DocuScan Co",
     description: "Scan documents, annotate PDFs, and export to cloud drives.",
@@ -343,7 +343,7 @@ export const appsData = [
   },
   {
     id: 20,
-    image: "/assets/demo-app (5).webp",
+    image: "/demo-app (5).webp",
     title: "Crypto Tracker",
     companyName: "BlockWatch",
     description: "Live crypto prices, alerts, and portfolio tracking with widgets.",
@@ -361,7 +361,7 @@ export const appsData = [
   },
   {
     id: 21,
-    image: "/assets/demo-app (6).webp",
+    image: "/demo-app (6).webp",
     title: "Learn Guitar",
     companyName: "TuneLabs",
     description: "Interactive guitar lessons with tuner, tabs, and practice stats.",
@@ -379,7 +379,7 @@ export const appsData = [
   },
   {
     id: 22,
-    image: "/assets/demo-app (1).webp",
+    image: "/demo-app (1).webp",
     title: "Language Flashcards",
     companyName: "Memora",
     description: "Spaced repetition flashcards for vocabulary with audio.",
@@ -397,7 +397,7 @@ export const appsData = [
   },
   {
     id: 23,
-    image: "/assets/demo-app (2).webp",
+    image: "/demo-app (2).webp",
     title: "Task Board Kanban",
     companyName: "FlowWorks",
     description: "Visual kanban board with drag-and-drop and team sharing.",
@@ -415,7 +415,7 @@ export const appsData = [
   },
   {
     id: 24,
-    image: "/assets/demo-app (3).webp",
+    image: "/demo-app (3).webp",
     title: "Reading List",
     companyName: "Bookly",
     description: "Save articles to read later, offline mode, and highlights.",
@@ -433,7 +433,7 @@ export const appsData = [
   },
   {
     id: 25,
-    image: "/assets/demo-app (4).webp",
+    image: "/demo-app (4).webp",
     title: "Workout Planner",
     companyName: "LiftPro",
     description: "Create workout plans, log sets, and track progress with charts.",
